@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="convert">Convert</string>
+    <string name="metric_chooser">Choose a metric</string>
+    <string name="title">Metric Converter</string>
+    <string name="name">By: Gabriel Moody Waworundeng</string>
+    <string name="number">number to convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="result">Result</string>
+    <string name="hasil">Hasil : </string>
+
+    <string-array name="metric_array">
+        <item>Choose a metric</item>
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Suhu</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Choose an unit</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>dam</item>
+        <item>hm</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="massa">
+        <item>Choose an unit</item>
+        <item>mg</item>
+        <item>cg</item>
+        <item>dg</item>
+        <item>g</item>
+        <item>dag</item>
+        <item>hg</item>
+        <item>kg</item>
+    </string-array>
+
+    <string-array name="waktu">
+        <item>Choose an unit</item>
+        <item>s</item>
+        <item>m</item>
+        <item>h</item>
+    </string-array>
+
+    <string-array name="suhu">
+        <item>Choose an unit</item>
+        <item>c</item>
+        <item>f</item>
+        <item>k</item>
+        <item>r</item>
+    </string-array>
+</resources>
